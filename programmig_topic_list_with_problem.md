@@ -1,3 +1,5 @@
+
+must learn : https://www.commonlounge.com/community/862d2091c64e447cacde77d4c76a9ac3?fbclid=IwAR0EyFhSSDwsfmxkTBLHGvlHiiYEL9c5NUM2OVS4FkBM_RRxeGXgQD1G51Q
 # বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
 
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
